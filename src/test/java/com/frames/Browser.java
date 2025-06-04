@@ -19,6 +19,8 @@ public class Browser extends Utility {
 public void browser() {
 		 
 		 initialization("chrome","https://letcode.in/courses"); 
+		 element("xpath", "")
+		 actions(element, method, target);
 
 	
 
